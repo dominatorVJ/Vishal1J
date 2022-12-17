@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vishal1J
+- 👋 Hi, I’m Vishal Jaiswal
 - 👀 I’m interested in Web Development and Competitive Programming.
 - 🌱 I’m currently learning full stack Web Development 
 - 📫 How to reach me : My email - 1vishaljee@gmail.com
